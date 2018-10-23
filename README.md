@@ -1,2 +1,2 @@
-# clean_swift
-A example of Clean Swift Architecture (VIP)
+# Clean Swift
+A more simple example of Clean Swift Architecture (VIP).
